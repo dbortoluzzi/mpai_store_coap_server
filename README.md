@@ -5,5 +5,5 @@
 - large
 
 ## Run
-`mvn spring-boot:run -Dspring-boot.run.arguments="--mpai.store.host=$IP_ADDRESS"
+`mvn spring-boot:run -Dspring-boot.run.arguments="--mpai.store.host=$IP_ADDRESS"`
 
