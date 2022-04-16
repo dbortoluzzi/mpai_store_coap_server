@@ -7,6 +7,7 @@
 
 ## Compile
 Before to compile this project, compile also the dependency: https://github.com/PelionIoT/java-coap 
+
 `mvn clean install -DskipTests`
 
 ## Run
