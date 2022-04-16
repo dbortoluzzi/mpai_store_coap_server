@@ -1,4 +1,4 @@
-# MPAI Store Server
+# MPAI Store COAP Server
 
 ## Resources
 - test
